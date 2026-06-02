@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="gdal" />
+          <option value="pytorch-cuda" />
+          <option value="pytorch-scatter" />
+          <option value="pytorch" />
+          <option value="torchvision" />
+          <option value="open3d" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
